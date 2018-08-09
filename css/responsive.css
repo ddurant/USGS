@@ -23,7 +23,7 @@
     .app_screenshots_slides {
         padding: 0 4%;
     }
-    .header_area.sticky .menu_area #nav .nav-link {
+    caeader_area.sticky .menu_area #nav .nav-link {
         padding: 23px 7.5px;
     }
 }
@@ -45,7 +45,7 @@
     #ca-navbar {
         padding: 30px;
         border-radius: 3px;
-        background-color: #5b32b4;
+        background-color: #F4F8FB;
         text-align: left;
     }
     .sing-up-button {
@@ -89,7 +89,7 @@
     .sing-up-button > a {
         margin-top: 4px;
         display: inline-block;
-        border: 2px solid #a883e9;
+        border: 2px solid #FF3535;
         height: 40px;
         min-width: 160px;
         line-height: 36px;
@@ -127,7 +127,7 @@
     #ca-navbar {
         padding: 20px;
         border-radius: 3px;
-        background-color: #5b32b4;
+        background-color: #F4F8FB;
         text-align: left;
     }
     .sing-up-button {
@@ -213,9 +213,9 @@
         margin-top: 30px;
     }
     .wellcome-heading > h3 {
-        font-size: 252px;
-        top: -105px;
-        left: -1px;
+        font-size: 18px;
+        top: 9px;
+        left: 146px;
     }
     .wellcome-heading,
     .single-cool-fact {
@@ -228,20 +228,21 @@
 
 @media (min-width: 480px) and (max-width: 767px) {
     .wellcome-heading > h3 {
-        font-size: 284px;
+        left: 205px;
+        top: 280px;
     }
     .wellcome-heading > h2 {
         font-size: 70px;
     }
     .welcome-thumb {
-        bottom: -109px;
+        bottom: -180px;
         width: 75%;
     }
     .wellcome-heading {
         margin-bottom: 50px;
     }
     .wellcome-heading > h3 {
-        top: -139px;
+        top: 16px;
     }
     .get-start-area .email {
         max-width: 370px;
@@ -250,7 +251,7 @@
 
 @media (min-width: 576px) and (max-width: 767px) {
     .wellcome-heading > h3 {
-        font-size: 286px;
+        font-size: 18px;
     }
     .get-start-area .email {
         margin-bottom: 0;
